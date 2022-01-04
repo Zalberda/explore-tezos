@@ -1632,6 +1632,18 @@ export let apps = [
     linkedinUrl: "https://www.linkedin.com/company/goeurekatravel",
     telegramUrl: "https://t.me/goeureka",
   },
+  {
+    name: "Tezos Agora",
+    href: "https://www.tezosagora.org/",
+    description:
+    "Tezos Community Site where you can learn about and discuss changes to the blockchain ecosystem.",
+    category: ["Tool"],
+    parentCompany: "",
+    imageSrc:
+    "https://ipfs.io/ipfs/QmQ1sroDVYPY6JTB9ahfEjRp1Ar4AsrdR9g7dLX5ZEgJSt?filename=Tezos%20Agora.jpg",
+    twitterUrl: "https://twitter.com/TezosAgora",
+
+  },
   // {
   //   name: "Sol2Ligo",
   //   href: "https://madfish-solutions.github.io/sol2ligo/",
